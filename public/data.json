@@ -1,0 +1,142 @@
+[
+    {
+        "id": 1,
+        "type": "suv",
+        "brand": "Tata",
+        "name": "Harrier",
+        "rating": 4,
+        "fuel_type":["diesel"],
+        "start_price": 1549000,
+        "end_price": 2644000
+    },
+    {
+        "id": 1,
+        "type": "suv",
+        "brand": "Tata",
+        "name": "Safari",
+        "rating": 5,
+        "fuel_type":["diesel"],
+        "start_price": 1619000,
+        "end_price": 2734000
+    },
+    {
+        "id": 1,
+        "type": "suv",
+        "brand": "Tata",
+        "name": "Nexon",
+        "rating": 5,
+        "fuel_type":["petrol","diesel"],
+        "start_price": 815000,
+        "end_price": 1560000
+    },
+    {
+        "id": 1,
+        "type": "suv",
+        "brand": "Tata",
+        "name": "Nexon EV",
+        "rating": 4,
+        "fuel_type":["ev"],
+        "start_price": 1449000,
+        "end_price": 1929000
+    },
+    {
+        "id": 1,
+        "type": "suv",
+        "brand": "Tata",
+        "name": "Punch",
+        "rating": 4,
+        "fuel_type":["petrol", "cng"],
+        "start_price": 613000,
+        "end_price": 1020000
+    },
+    {
+        "id": 1,
+        "type": "hatchbacks",
+        "brand": "Tata",
+        "name": "Altroz",
+        "rating": 5,
+        "fuel_type":["petrol","diesel","cng"],
+        "start_price": 613000,
+        "end_price": 1020000
+    },
+    {
+        "id": 1,
+        "type": "hatchbacks",
+        "brand": "Tata",
+        "name": "Tiago",
+        "rating": 5,
+        "fuel_type":["petrol","cng"],
+        "start_price": 565000,
+        "end_price": 890000
+    },
+    {
+        "id": 1,
+        "type": "sedan",
+        "brand": "Tata",
+        "name": "Tigor",
+        "rating": 4,
+        "fuel_type":["petrol","cng"],
+        "start_price": 630000,
+        "end_price": 955000
+    },
+    {
+        "id": 1,
+        "type": "suv",
+        "brand": "Mahindra",
+        "name": "XUV 700",
+        "rating": 2,
+        "fuel_type":[],
+        "start_price": "",
+        "end_price": ""
+    },
+    {
+        "id": 1,
+        "type": "suv",
+        "brand": "Mahindra",
+        "name": "XUV 400",
+        "rating": 4,
+        "fuel_type":[],
+        "start_price": "",
+        "end_price": ""
+    },
+    {
+        "id": 1,
+        "type": "suv",
+        "brand": "Mahindra",
+        "name": "Thar",
+        "rating": 3,
+        "fuel_type":[],
+        "start_price": "",
+        "end_price": ""
+    },
+    {
+        "id": 1,
+        "type": "suv",
+        "brand": "Mahindra",
+        "name": "XUV 300",
+        "rating": 3,
+        "fuel_type":[],
+        "start_price": "",
+        "end_price": ""
+    },
+    {
+        "id": 1,
+        "type": "suv",
+        "brand": "Mahindra",
+        "name": "Scorpio",
+        "rating": 1,
+        "fuel_type":[],
+        "start_price": "",
+        "end_price": ""
+    },
+    {
+        "id": 1,
+        "type": "suv",
+        "brand": "Mahindra",
+        "name": "Bolero",
+        "rating": 3,
+        "fuel_type":[],
+        "start_price": "",
+        "end_price": ""
+    }
+]
