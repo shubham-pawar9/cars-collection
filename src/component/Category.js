@@ -1,8 +1,12 @@
 import { useEffect, useState } from "react";
 
-const Category = ({ data, selectBrand, selectFilter }) => {
-  const [showData, setShowData] = useState([]);
-
+const Category = ({
+  data,
+  selectBrand,
+  selectFilter,
+  showData,
+  setShowData,
+}) => {
   useEffect(() => {
     if (data) {
       let filteredData = data.filter((item) => item.brand === selectBrand);
